@@ -11,7 +11,8 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Artyy-Js" height="50" width="50" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"/>
   <img align="center" alt="Artyy-Js" height="40" width=40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="Artyy-chris" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3htZnRqcXU0eXBoZW40ZDBrNmN2djc1M2drMnoxNnRsMm85NzZhOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pOmtxQVSJxhZSQcz48/giphy.gif">
+ <img align="right" alt="Artyy-chris"  height="240" width=240" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHRteXV2NW91NXFxM2M3eDJoZXdic21qbHE2c2ZzbnI1ODByaTF0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pOmtxQVSJxhZSQcz48/giphy.gif">
+
   </div>
 
 ##
