@@ -15,7 +15,10 @@
 - 🖥️ Atualmente sou Jovem Aprendiz de Desenvolvimento Full Stack na Rede Marista Cesmar 
 - 💭 Estudando logica de programação, JS e JAVA
 
-
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ArTyy022&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=ArTyy022&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="190" alt="trophy graph"  />
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Artyy-Js" height="50" width="50" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"/>
@@ -29,20 +32,15 @@
 
 
 
+
 <div> 
   <a href="https://www.linkedin.com/in/andré-arthur-toledo-42a653371" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-
-
-
-
-
 </div>
 
 
 
+###
 
-##
 
 
 <picture>
