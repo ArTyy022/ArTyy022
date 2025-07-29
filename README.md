@@ -56,6 +56,8 @@
 
 
 
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArTyy022/ArTyy022/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArTyy022/ArTyy022/output/pacman-contribution-graph.svg">
