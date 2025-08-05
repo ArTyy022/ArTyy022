@@ -14,10 +14,13 @@
 </div>
 
 
+
 - 🖥️ Atualmente sou Jovem Aprendiz de Desenvolvimento Full Stack na Rede Marista Cesmar 
 - 💭 Estudando logica de programação, JS e JAVA
+
   
 ##
+
  
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
