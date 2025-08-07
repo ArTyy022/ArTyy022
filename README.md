@@ -1,18 +1,10 @@
 ## Olá! Eu sou o Arthur
 
 
-
-
-
-
-
-
-
 <div><a href="https://github.com/ArTyy022">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArTyy022&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArTyy022&layout=compact&langs_count=16&theme=dark"/>
 </div>
-
 
 
 - 🖥️ Atualmente sou Jovem Aprendiz de Desenvolvimento Full Stack na Rede Marista Cesmar 
@@ -21,7 +13,6 @@
 
   
 ##
-
 
  
 <div align="center">
@@ -38,8 +29,8 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ArTyy022&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=ArTyy022&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://streak-stats.demolab.com?user=ArTyy022&locale=en&mode=daily&theme=shadow_red&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=ArTyy022&theme=shadow_red&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 
