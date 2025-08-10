@@ -5,17 +5,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArTyy022&show_icons=true&theme=shadow_red&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArTyy022&layout=compact&langs_count=16&theme=shadow_red"/>
 </div>
-
-
+  
 - 🖥️ Atualmente sou Jovem Aprendiz de Desenvolvimento Full Stack na Rede Marista Cesmar 
 - 💭 Estudando logica de programação, JS e JAVA
-
-  
+ 
 ##
 
-
-
- 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
   <img width="12" />
