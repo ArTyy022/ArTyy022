@@ -7,7 +7,7 @@
 </div>
 
   
-- 🖥️ Atualmente sou Jovem Aprendiz de Desenvolvimento Full Stack na Rede Marista Cesmar 
+- 🖥️ Atualmente sou Jovem Aprendiz de Desenvolvimento Full Stack no Grupo Zaffari
 - 💭 Estudando logica de programação, JS e JAVA
  
 ##
