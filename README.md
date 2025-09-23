@@ -18,7 +18,6 @@
 </div>
 
 
-
   
 <div align="center">
   <a href="https://www.linkedin.com/in/andré-arthur-toledo-42a653371" target="_blank">
