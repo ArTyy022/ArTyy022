@@ -9,6 +9,7 @@
 
 
 
+
   
 - 🖥️ Atualmente sou Jovem Aprendiz de Desenvolvimento Full Stack no Grupo Zaffari
 - 💭 Estudando logica de programação, JS e JAVA
