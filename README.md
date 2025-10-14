@@ -20,7 +20,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg%22%20height=%2260%22%20alt=%22dart%20logo" />
 </div>
 
 
